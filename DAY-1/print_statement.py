@@ -1,7 +1,0 @@
-print("Name-Deeksha Chowdhary")
-print("City:Hyderabad")
-print("Qualification:B.Tech")
-print("Department: Artificial Intelligence and Machine ")
-print("Skills:Python,Web Development,DSA")
-print("reg no:CGH2919")
-print("Batch: 50")
